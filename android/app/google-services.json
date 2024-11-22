@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "66965900557",
+    "project_id": "weatherapp-5cb78",
+    "storage_bucket": "weatherapp-5cb78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66965900557:android:1eedba2760d4d7a13fb444",
+        "android_client_info": {
+          "package_name": "com.shamil.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0pctarKQT372M0JbrlmpsK2QC5Iq4zb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
